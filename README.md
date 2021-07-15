@@ -14,6 +14,9 @@ Use the module in this repo.
 Use the module and also set this sebool
 ```setsebool -P nis_enabled 1```
 
+## NFS
+Use the module in this repo. This agent may not work?
+
 ## ZFS
 Use the module in this repo.
 This policy allows snmpd_t to ioctl, open, read and write against device_t. This is a potentially dangerous policy, use at your own risk!
