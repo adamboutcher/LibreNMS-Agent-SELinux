@@ -21,6 +21,9 @@ Use the module in this repo. This agent may not work?
 Use the module in this repo.
 This policy allows snmpd_t to ioctl, open, read and write against device_t. This is a potentially dangerous policy, use at your own risk!
 
+## Check Module
+You should be able to read the module contents with sedismod <module_name>.pp.
+
 ## About
 
 This reposistory is full of SELinux Modules for LibreNMS-Agent while maintaining a Cluster (UKI-SCOTGRID-DURHAM) for [GridPP](https://www.gridpp.ac.uk/) when I was working at the [IPPP](https://www.ippp.dur.ac.uk) part of [Durham University](https://www.dur.ac.uk).
